@@ -1,0 +1,47 @@
+h1{
+text-align: center;
+}
+
+.tamLogo{
+    width: 150px;
+    
+}
+
+header{
+    border-bottom: solid 2px blue;
+}
+.logoInicio{ 
+    width: 250px;  
+    height: 300;  
+}
+
+.nav-link{
+    font-size: 1rem;
+    padding-right: 1rem;
+}
+h3{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 12px;
+    margin-left: 15px;
+}
+.quienesSomos{
+    text-align: center;
+}
+
+.img-fluid{
+    width: 200px;
+    position: center;
+}
+.logoWhats{
+    width: 50px;
+    right: 20px;
+    position: fixed;
+    bottom: 20px;
+}
+
+/* CAROUSEL */
+.imgCarousel{
+    height: 550px;
+    object-fit: cover;
+}
