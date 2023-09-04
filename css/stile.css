@@ -72,7 +72,7 @@ h3{
 /* icono Instagram */
 .logoIns{
     width: 50px;
-    left: 20px;
+    left: 100px;
     /* position: fixed; */
     bottom: 20px;
 }
@@ -90,4 +90,39 @@ h3{
     /* position: fixed; */
     bottom: 20px;
 }
-
+/* LETRA SERVICIOS  */
+.letServ{
+    font-size: 1rem;
+}
+/* FAMILIA */
+.famiLia{
+    border-bottom: 5px;color: blue;
+    font-size: 2rem;
+}
+/* LETRA LABORAL  */
+.letLaboral{
+    font-size: 1rem;
+}
+/* LABORAL */
+.laboRal{
+    border-bottom: 5px;color: blue;
+    font-size: 2rem;
+}
+/* LETRA CIVIL  */
+.letCivil{
+    font-size: 1rem;
+}
+/* CIVIL */
+.ciVil{
+    border-bottom: 5px;color: blue;
+    font-size: 2rem;
+}
+/* LETRA PENAL  */
+.letPenal{
+    font-size: 1rem;
+}
+/* PENAL */
+.peNal{
+    border-bottom: 5px;color: blue;
+    font-size: 2rem;
+}
