@@ -73,14 +73,14 @@ h3{
 .logoIns{
     width: 50px;
     left: 100px;
-    /* position: fixed; */
+    /* position: sticky; */
     bottom: 20px;
 }
 /* icono Facebook */
 .logoFace{
     width: 100px;
     left: 0.5px;
-    /* position: fixed; */
+    /* position: sticky; */
     bottom: 20px;
 }
 /* icono Mail */
