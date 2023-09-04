@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+
 h1{
 text-align: center;
 }
@@ -52,5 +55,39 @@ h3{
 
 .subTitulos{
     text-rendering: auto; 
+}
+
+.textContact{
+    font-family: "Roboto"; 
+    font-size: 1rem;
+    padding-right: 1rem;
+}
+/* servicios */
+.fondoImg{
+    background-image: url("../img/contrato\ de\ trabajo.jpg");
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* icono Instagram */
+.logoIns{
+    width: 50px;
+    left: 20px;
+    /* position: fixed; */
+    bottom: 20px;
+}
+/* icono Facebook */
+.logoFace{
+    width: 100px;
+    left: 0.5px;
+    /* position: fixed; */
+    bottom: 20px;
+}
+/* icono Mail */
+.logoMail{
+    width: 50px;
+    left: 40px;
+    /* position: fixed; */
+    bottom: 20px;
 }
 
