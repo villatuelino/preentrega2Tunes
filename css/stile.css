@@ -1,128 +1,150 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 
 
-h1{
-text-align: center;
+h1 {
+    text-align: center;
 }
 
-.tamLogo{
+.tamLogo {
     width: 150px;
-    
+
 }
 
-header{
-    border-bottom: solid 2px blue;
-}
-.logoInicio{ 
-    width: 250px;  
-    height: 300;  
+/* HEDER */
+.estHed:hover {
+    background-color: cadetblue;
+    color: blue;
 }
 
-.nav-link{
+/* NAVBAR
+.fondoImg{
+    background-image: url(../img/familia.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.logoInicio {
+    width: 250px;
+    height: 300;
+}
+
+.nav-link {
     font-size: 1rem;
     padding-right: 1rem;
 }
-h3{
+
+h3 {
     margin-top: 5px;
     margin-right: 10px;
     margin-bottom: 12px;
     margin-left: 15px;
 }
-.quienesSomos{
+
+.quienesSomos {
     text-align: center;
 }
 
-.img-fluid{
+.img-fluid {
     width: 200px;
     position: center;
 }
-.logoWhats{
-    width: 50px;
+/* WHATSAPP */
+.logoWhats {
+    width: 100px;
     right: 20px;
     position: fixed;
     bottom: 20px;
 }
 
 /* CAROUSEL */
-.imgCarousel{
+.imgCarousel {
     height: 550px;
     object-fit: cover;
 }
 
-.bioDet{
-    border-style: double; color: blue;
+.bioDet {
+    border-style: double;
+    color: blue;
 }
 
-.subTitulos{
-    text-rendering: auto; 
+.subTitulos {
+    text-rendering: auto;
 }
 
-.textContact{
-    font-family: "Roboto"; 
+.textContact {
+    font-family: "Roboto";
     font-size: 1rem;
     padding-right: 1rem;
 }
+
 /* servicios */
-.fondoImg{
+.fondoImg {
     background-image: url("../img/contrato\ de\ trabajo.jpg");
     background-position: 100%;
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 /* icono Instagram */
-.logoIns{
+.logoIns {
     width: 50px;
-    left: 100px;
-    /* position: sticky; */
+    left: 0px;
+    position: sticky;
     bottom: 20px;
 }
+
 /* icono Facebook */
-.logoFace{
-    width: 100px;
-    left: 0.5px;
-    /* position: sticky; */
+.logoFace {
+    width: 90px;
+    left: 0px;
+    position: sticky;
     bottom: 20px;
 }
+
 /* icono Mail */
-.logoMail{
+.logoMail {
     width: 50px;
-    left: 40px;
-    /* position: fixed; */
+    left: 0px;
+    */ position: sticky;
     bottom: 20px;
 }
+
+.botonRed {
+    align-items: center;
+    justify-content: center;
+}
+
 /* LETRA SERVICIOS  */
-.letServ{
+.letServ {
     font-size: 1rem;
 }
-/* FAMILIA */
-.famiLia{
-    border-bottom: 5px;color: blue;
-    font-size: 2rem;
+
+/* CARD */
+.card {
+    margin: 0.5rem;
+    text-align: center;
 }
-/* LETRA LABORAL  */
-.letLaboral{
-    font-size: 1rem;
+
+.cardImg {
+    height: 150px;
+    object-fit: cover;
 }
-/* LABORAL */
-.laboRal{
-    border-bottom: 5px;color: blue;
-    font-size: 2rem;
+
+/* FOOTER */
+footer {
+    background-color: cadetblue;
+    color: black;
+
 }
-/* LETRA CIVIL  */
-.letCivil{
-    font-size: 1rem;
+
+.caruImg {
+    height: 100px;
+    object-fit: cover;
 }
-/* CIVIL */
-.ciVil{
-    border-bottom: 5px;color: blue;
-    font-size: 2rem;
-}
-/* LETRA PENAL  */
-.letPenal{
-    font-size: 1rem;
-}
-/* PENAL */
-.peNal{
-    border-bottom: 5px;color: blue;
-    font-size: 2rem;
+
+/* BIOGRAFIA */
+.estBio {
+    width: 300px;
+
 }

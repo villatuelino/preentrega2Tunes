@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)https://www.marval.com/Evento/codigo-civil-y-comercial-comentado-34 -->
+<html lang="es-ES"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Google Tag Manager -->
+    <script async="" src="./Presentacion Código Civil y Comercial Comentado_files/insight.old.min.js.descarga"></script><script type="text/javascript" async="" src="./Presentacion Código Civil y Comercial Comentado_files/js"></script><script src="./Presentacion Código Civil y Comercial Comentado_files/1192927141466929" async=""></script><script async="" src="./Presentacion Código Civil y Comercial Comentado_files/fbevents.js.descarga"></script><script type="text/javascript" async="" src="./Presentacion Código Civil y Comercial Comentado_files/insight.min.js.descarga"></script><script type="text/javascript" async="" src="./Presentacion Código Civil y Comercial Comentado_files/hotjar-909608.js.descarga"></script><script async="" src="./Presentacion Código Civil y Comercial Comentado_files/insight.old.min.js.descarga"></script><script type="text/javascript" async="" src="./Presentacion Código Civil y Comercial Comentado_files/insight.min.js.descarga"></script><script async="" src="./Presentacion Código Civil y Comercial Comentado_files/analytics.js.descarga"></script><script async="" src="./Presentacion Código Civil y Comercial Comentado_files/gtm.js.descarga"></script><script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TT5S8R');</script>
+    <!-- End Google Tag Manager -->
+
+    
+    
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <link rel="shortcut icon" href="https://www.marval.com/favicon.jpg">
+    <link rel="manifest" href="https://www.marval.com/manifest.json">
+
+    <title>Código Civil y Comercial Comentado</title>
+    <meta name="title" content="Código Civil y Comercial Comentado">
+    <meta name="description" content="Directores: Julio C&amp;eacute;sar Rivera y Graciela Medina
+ - Marval, O’Farrell &amp; Mairal">
+    <meta name="keywords" content="Derecho, M&amp;A, Fusiones y adquisiciones,	Law Firm, Abogados, Transaction, Estudio Jurídico, Deal, Transacciones,	Lawyers, Propiedad intelectual, Intellectual Property">
+    <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="McRAfoykKbtfXsWWXmil-uSjpkXtpz4rm8p938BAWYM">
+
+    <link rel="apple-touch-icon" href="https://www.marval.com/Images/icono57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.marval.com/Images/icono72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.marval.com/Images/icono114.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.marval.com/Images/icono144.png">
+    <link rel="apple-touch-icon-precomposed" href="https://www.marval.com/Images/icono57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.marval.com/Images/icono72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.marval.com/Images/icono114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.marval.com/Images/icono144.png">
+    <link rel="apple-touch-startup-image" href="https://www.marval.com/Images/icono192.png">
+    <meta name="msapplication-square72x72logo" content="/Images/icono72.png">
+    <meta name="msapplication-square114x114logo" content="/Images/icono114.png">
+    <meta name="msapplication-square144x144logo" content="/Images/icono144.png">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#FFFFFF">
+
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/fonts.PortalWeb.min.css" rel="stylesheet">
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/font-awesome.min.css" rel="stylesheet">
+
+    <meta name="accept-language" content="es">
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/jquery"></script>
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/General"></script>
+
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/ColoresAreas" rel="stylesheet">
+
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/css" rel="stylesheet">
+
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/Selectize" rel="stylesheet">
+
+    
+
+
+        <meta property="og:image" content="https://www.marval.com/Resources/Evento/34/ImagenPrincipalEdicionEvento_34_1000.jpg?v=202308231837">
+<meta http-equiv="origin-trial" content="A+xK4jmZTgh1KBVry/UZKUE3h6Dr9HPPioFS4KNCzify+KEoOii7z/goKS2zgbAOwhpZ1GZllpdz7XviivJM9gcAAACFeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiQXR0cmlidXRpb25SZXBvcnRpbmdDcm9zc0FwcFdlYiIsImV4cGlyeSI6MTcwNzI2Mzk5OSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script attributionsrc="" type="text/javascript" async="" src="./Presentacion Código Civil y Comercial Comentado_files/f.txt"></script><script async="" src="./Presentacion Código Civil y Comercial Comentado_files/modules.c7962ba31267c30299df.js.descarga" charset="utf-8"></script></head>
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT5S8R"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="container-fluid">
+        
+
+
+
+
+<div class="row content-center" id="pnlHeader">
+    
+
+<div class="row">
+    <div id="subPanelHeader" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 nopadding">
+        <div class="logo-container">
+            <a href="https://www.marval.com/" style="display: inline-block;">
+                <img class="logo-image" src="./Presentacion Código Civil y Comercial Comentado_files/logo100.svg" alt="Marval, O&#39; Farrell &amp; Mairal" title="Marval, O&#39; Farrell &amp; Mairal" border="0">
+             </a>
+        </div>
+        <div class="main-container botonera-container">
+            <ul>
+                
+                <li style="display:none">
+                    <div class="list-item-container incluye-borde-right">
+                        <a id="btn-remote-access" class="link-no-color">
+                            <span class="fa fa-laptop" title="Acceso Remoto" style="font-size: 18px"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="list-item-container incluye-borde-right">
+                        <a href="https://www.marval.com/contacto" class="link-no-color"> 
+                            <span class="fa fa-envelope-o" title="Contacto" style="font-size: 18px"></span>
+                        </a>
+                    </div>
+                </li>
+                
+                <li>
+                    <div class="list-item-container incluye-borde-right">
+                        <span class="setLang" lang="en">ENG</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="list-item-container">
+                        <span class="setLang active-lang" lang="es">ESP</span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/Shared"></script>
+
+
+<script>
+    $(document).ready(function () {
+        ViewFindInput();
+        HandlerLanguage();
+        HandlerButtons();
+    })
+</script>
+</div>
+<div class="row" id="pnlMenu">
+
+
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 nopadding">
+    <div class="row content-center-notopbottom-padding">
+        <div class="col-md-12 col-lg-12 nopadding">
+            <div class="main-container-options botonera-container-menu">
+                
+                <ul class="list-options-group-header">
+                    <li class="list-option-container list-item-option-header" data-optionidheader="1" data-hassubmenu="0">
+                        <a href="https://www.marval.com/profesionales">PROFESIONALES</a>
+                    </li>
+                    
+
+                    <li class="list-option-container list-item-option-header" data-optionidheader="2" data-hassubmenu="1">
+                        <a data-id="0" data-href="/AreasPracticas/AreasPracticas" data-typemodel="" onclick="goToPage(this); return false;">ÁREAS DE PRÁCTICA</a>
+                    </li>
+
+                    <li class="list-option-container list-item-option-header" data-optionidheader="3" data-hassubmenu="1">
+                        <a data-id="0" data-href="/publicaciones" data-typemodel="" onclick="goToPage(this); return false;">CONTENIDO</a>
+                    </li>
+                    <li class="list-option-container list-item-option-header" data-optionidheader="8" data-hassubmenu="0">
+                        <a data-id="0" data-href="/areas-de-practica/area/pro-bono-105" data-typemodel="" onclick="goToPage(this); return false;">PRO BONO</a>
+                    </li>
+                    <li class="list-option-container list-item-option-header" data-optionidheader="5" data-hassubmenu="0">
+                        <a href="https://www.marval.com/oportunidades-laborales">CARRERA</a>
+                    </li>
+                    <li class="list-option-container list-item-option-header" data-optionidheader="6" data-hassubmenu="1">
+                        <a data-id="0" data-href="/institucional/perfil" data-typemodel="" onclick="goToPage(this); return false;">NOSOTROS</a>
+                    </li>
+                    <li class="list-option-container list-item-option-header" data-optionidheader="9" data-hassubmenu="0">
+                        <a href="https://100.marval.com/" target="_blank">100 AÑOS</a>
+                    </li>
+                    <li class="list-option-container list-item-option-header" data-optionidheader="7" data-hassubmenu="0">
+                        <a href="https://www.marval.com/contacto">CONTACTO</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+    <div id="pnlSuboptions" class="row">
+        <div class="col-md-12 col-lg-12 nopadding">
+            <div class="main-container">
+                <!-- PROFESIONALES -->
+                
+                <!-- AREAS PRACTICAS -->
+                
+                <!-- NOVEDADES -->
+                
+                <!-- PUBLICACIONES -->
+                <div data-optionid="3">
+                    <ul data-optionid="3" class="group-suboptions content-center-notopbottom-padding">
+                        <li class="list-option-container">
+                            <a data-id="0" data-href="/publicaciones" data-typemodel="" onclick="goToPage(this); return false;">ARTÍCULOS</a>
+                        </li>
+                        
+                        <li class="list-option-container">
+                            <a href="https://www.marval.com/publicaciones/newsletters">NEWSLETTERS</a>
+                        </li>
+                        <li class="list-option-container">
+                            <a data-id="0" data-href="/novedades-y-eventos" data-typemodel="" onclick="goToPage(this); return false;">NOVEDADES </a>
+                        </li>
+                        <li class="list-option-container">
+                            
+                            <a data-id="0" data-href="/Events" data-typemodel="" onclick="goToPage(this); return false;">EVENTOS</a>
+                        </li>
+                        <li class="list-option-container">
+                            <a data-id="0" data-href="/publicaciones/publicaciones-externas" data-typemodel="" onclick="goToPage(this); return false;">MEDIA CLIPPING</a>
+                        </li>
+                        <li class="list-option-container">
+                            <!--DOING BUSSINESS -->
+                            
+                            <a data-id="0" data-href="/Landing/doing-business-in-argentina-2020-15" data-typemodel="" onclick="goToPage(this); return false;">DOING BUSINESS</a>
+                        </li>
+                        <li class="list-option-container">
+                            <!--LANDING PAGES -->
+                            <a href="https://www.marval.com/LandingPages">INSIGHTS</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- NOSOTROS -->
+                <div data-optionid="6">
+                    <ul data-optionid="6" class="group-suboptions content-center-notopbottom-padding">
+                        <li class="list-option-container"><a href="https://www.marval.com/institucional/perfil">PERFIL</a></li>
+                        
+                        <li class="list-option-container"><a href="https://www.marval.com/institucional/premios-y-reconocimientos">PREMIOS &amp; RECONOCIMIENTOS</a></li>
+                        <li class="list-option-container"><a href="https://www.marval.com/Institucional/internacional">VÍNCULOS INTERNACIONALES</a></li>
+                        <li class="list-option-container"><a href="https://www.marval.com/institucional/cultura-y-valores">CULTURA &amp; VALORES</a></li>
+                    </ul>
+                </div>
+                <div data-optionid="2">
+                    <ul data-optionid="2" class="group-suboptions content-center-notopbottom-padding">
+                        <li class="list-option-container"><a href="https://www.marval.com/areas-de-practica">ÁREAS DE PRÁCTICA</a></li>
+                        <li class="list-option-container"><a href="https://www.marval.com/AreasPracticas/InternationalDesk">INTERNATIONAL DESKS</a></li>
+                    </ul>
+                </div>
+                <!--AREAS PRACTICAS-->
+                <!-- CONTACTO -->
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/Shared"></script>
+
+
+<script>
+    $(document).ready(function () {
+        SubMenuEvents();
+    })
+</script></div>
+<div id="pnlMenuResponsive" class="row nomargin">
+
+
+<div id="box-contenedor-menu">
+    <div class="row nomargin">
+        <div class="col-xs-12 nopadding">
+            <div class="btn-menu-responsive">
+                <button id="btnMenuResponsive" type="button" class="btn nopadding">
+                    <span class="glyphicon glyphicon-menu-hamburger color-btn"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row nomargin">
+        <div class="col-xs-12">
+            <div class="menu-responsive-container close-menu">
+                <div class="btn-menu-responsive">
+                    <button id="btn-close-menu" type="button" class="btn">
+                        <span class="glyphicon glyphicon-menu-hamburger tam-close"></span>
+                    </button>
+                </div>
+                <div class="menu-option-responsive">
+                    <div class="item-menu-responsive" data-optionidheader="1">
+                        <!-- Cabecera de Cada Menu Responsive -->
+                        <a href="https://www.marval.com/profesionales">PROFESIONALES</a>
+                    </div>
+                </div>
+                <div class="menu-option-responsive">
+                    <div class="item-menu-responsive" data-optionidheader="1">
+                        <a href="https://www.marval.com/areas-de-practica">ÁREAS DE PRÁCTICA</a>
+                        <span class="plusMenuExpand glyphicon glyphicon-chevron-down"></span>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        <a href="https://www.marval.com/areas-de-practica">ÁREAS DE PRÁCTICA</a>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        <a href="https://www.marval.com/AreasPracticas/InternationalDesk">INTERNATIONAL DESKS</a>
+                    </div>
+                </div>
+                <div class="menu-option-responsive">
+                    <div class="item-menu-responsive" data-optionidheader="1">
+                        <a href="https://www.marval.com/areas-de-practica/area/pro-bono-105">PRO BONO</a>
+                    </div>
+                </div>
+                <div class="menu-option-responsive">
+                    <div class="item-menu-responsive" data-optionidheader="1">
+                        <a href="https://www.marval.com/publicaciones">CONTENIDO</a>
+                        <!-- Solo agregar si posee mas de un sub menu -->
+                        <span class="plusMenuExpand glyphicon glyphicon-chevron-down"></span>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        <!-- Aqui van los Sub Menu de Cada Menu -->
+                        <a href="https://www.marval.com/publicaciones">ARTÍCULOS</a>
+                    </div>
+                    <!-- <div class="submenu-option-responsive">
+                         Aqui van los Sub Menu de Cada Menu
+                        
+                    </div>-->
+                    <div class="submenu-option-responsive">
+                        <a href="https://www.marval.com/publicaciones/newsletters">NEWSLETTERS</a>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        <a href="https://www.marval.com/novedades-y-eventos">NOVEDADES </a>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        
+                        <a data-id="0" data-href="/Events" data-typemodel="" onclick="goToPage(this); return false;">EVENTOS</a>
+                    </div>
+                    
+                    <div class="submenu-option-responsive">
+                        <a href="https://www.marval.com/publicaciones/publicaciones-externas">MEDIA CLIPPING</a>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        
+                        <a href="https://www.marval.com/Landing/doing-business-in-argentina-2020-15">DOING BUSINESS</a>
+                    </div>
+                    <div class="submenu-option-responsive">
+                        <a href="https://www.marval.com/LandingPages">INSIGHTS</a>
+                    </div>
+
+                </div>
+                <div class="menu-option-responsive">
+                    <div class="item-menu-responsive" data-optionidheader="1">
+                        <a href="https://www.marval.com/oportunidades-laborales">CARRERA</a>
+
+                    </div>
+                    <div class="menu-option-responsive">
+                        <div class="item-menu-responsive" data-optionidheader="1">
+                            <a href="https://www.marval.com/institucional/perfil">NOSOTROS</a>
+                            <span class="plusMenuExpand glyphicon glyphicon-chevron-down"></span>
+                        </div>
+                        <div class="submenu-option-responsive">
+                            <a href="https://www.marval.com/institucional/perfil">PERFIL</a>
+                        </div>
+                        <div class="submenu-option-responsive">
+                            <a href="https://www.marval.com/institucional/cultura-y-valores">CULTURA &amp; VALORES</a>
+                        </div>
+                        <div class="submenu-option-responsive">
+                            <a href="https://www.marval.com/institucional/premios-y-reconocimientos">PREMIOS &amp; RECONOCIMIENTOS</a>
+                        </div>
+                        <div class="submenu-option-responsive">
+                            <a href="https://www.marval.com/Institucional/internacional">VÍNCULOS INTERNACIONALES</a>
+                        </div>
+                        
+                    </div>
+                    <div class="item-menu-responsive" data-optionidheader="1">
+                        <a href="https://100.marval.com/" target="_blank">100 AÑOS</a>
+                    </div>
+                    <div class="menu-option-responsive">
+                        <div class="item-menu-responsive" data-optionidheader="1">
+                            <a href="https://www.marval.com/contacto">CONTACTO</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/Shared"></script>
+
+
+    <script>
+        $(document).ready(function () {
+            EventsMenuResponsive();
+        })
+    </script>
+</div></div>
+
+<div class="pnlBusqueda" id="pnlBusqueda">
+    <div id="divContenedorBuscador" class="row content-center">
+    <form onsubmit="goToSearch(&#39;#inputBuscador&#39;); return false;">
+        <div class="col-xs-9 col-sm-10 col-md-10 col-lg-10 nopadding" style="padding-right: 20px !important">
+            <div class="inner-addon left-addon">
+                <i class="glyphicon glyphicon-search searchIcon"></i>
+                <input type="text" id="inputBuscador" class="form-control inputBuscador" placeholder="Buscar en nuestra web..." name="Params">
+            </div>
+        </div>
+        <div class="col-xs-3 col-sm-2 col-md-2 col-lg-2 nopadding">
+            <button type="submit" id="btnBuscadorGeneral" class="btn btnBuscadorGeneral Blanco">BUSCAR</button>
+        </div>
+    </form>
+    
+</div>
+
+<script>
+    $(document).ready(function () {
+        //NormalizarComponentes();
+    });
+
+    //function NormalizarComponentes()
+    //{
+    //    var clasePosicion;
+    //    var claseBoton;
+
+    //    switch(true)
+    //    {
+    //        case $(".pnlSliderPrincipal .lSSlideOuter").length > 0:
+    //            className = "buscadorSobreSlide";
+    //            claseBoton = "Negro";
+    //            break;
+    //        default:
+    //            claseBoton = "Blanco";
+    //            className = "";
+    //            break;          
+    //    }
+
+    //    $("#divContenedorBuscador").addClass(className);
+    //    $("#btnBuscadorGeneral").addClass(claseBoton);
+    //}
+
+    
+</script>
+</div>
+<div id="AlertsLandingPageDetalle"></div>
+
+<input id="hAreasSuscripcion" type="hidden" value="96">
+<input id="hAreasNombreSuscripcion" type="hidden" value="Litigios y Arbitrajes">
+<input type="hidden" id="hIdEvento" value="34" name="idEvento">
+
+<div class="content-center">
+    
+    
+    
+    <div class="row">
+
+        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+            <div class="row">
+                <h1 class="bold">Presentación del Código Civil y Comercial Comentado - 2da edición.</h1>
+            </div>
+            <div class="row big-font item-detail" style="word-break:break-word; margin-bottom: 15px">
+
+<p><i>Los invitamos participar de la presentación del Código,&nbsp;dirigido&nbsp;por nuestro socio Julio César Rivera y Graciela Medina. Expertos presentarán la obra y explorarán y comentarán las principales áreas de esta legislación unificada.</i></p>
+
+
+            </div>
+
+
+            <div class="row">
+                <div title="Presentación del Código Civil y Comercial Comentado - 2da edición." class="tamanio-imagen-landet" style="background-image:url(&#39;https://www.marval.com/Resources/Evento/34/ImagenPrincipalEdicionEvento_34_1000.jpg?v=202308231837&#39;); background-position-y:center;">
+                </div>
+            </div>
+            <div class="row" style="background-color:#ddd;margin-top:15px;">
+                <div class="col-md-12">
+                    <div style=" display:inline-flex;">
+                        <div>
+                            <h5 class="bold" style="margin-right:12px;">Fecha: </h5>
+                        </div>
+                        <div style="display:inline-flex;">
+                            <p style="margin:auto;">Del 17 de Agosto de 2023</p>
+                                <p style="margin:auto;">&nbsp; al 17 de Agosto de 2023</p>
+                        </div>
+
+                    </div>
+                    <div>
+                        <div style="display:inline-flex;">
+                            <h5 class="bold" style="margin-right:12px;">Hora:</h5>
+                        </div>
+                        <div style="display:inline-flex;">
+                            <p>2:30 PM</p>
+                        </div>
+                    </div>
+                            <div>
+                                <div style="display:inline-flex;">
+                                    <h5 class="bold">Lugar: </h5>
+                                </div>
+                                <div style="display:inline-flex;">
+                                    <p>Auditorio Marval - Alem 882, Ciudad Autónoma de Buenos Aires</p>
+                                </div>
+                            </div>
+
+                        <div>
+                            <div style="display:inline-flex;">
+                                <h5 class="bold">Formato:</h5>
+                            </div>
+                            <div style="display:inline-flex;">
+                                <p>Presencial</p>
+                            </div>
+                        </div>
+
+                </div>
+            </div>
+
+            <div class="row big-font" style="margin-top: 20px; word-break:break-word;">
+<p style="margin:0px 0px 10px; text-align:start; -webkit-text-stroke-width:0px"><br>
+<span style="font-size:16px;"><span style="color:#3498db;"><span style="box-sizing:border-box"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-variant-caps:normal"><span style="font-weight:400"><span style="letter-spacing:normal"><span style="orphans:2"><span style="text-transform:none"><span style="widows:2"><span style="word-spacing:0px"><span style="white-space:normal"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><span style="box-sizing:border-box"><strong style="box-sizing:border-box; font-weight:bold"><span style="box-sizing:border-box">¿Cuándo?</span></strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<ul style="box-sizing:border-box; margin:0px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:start; text-transform:none; widows:2; word-spacing:0px; -webkit-text-stroke-width:0px; white-space:normal; text-decoration-thickness:initial; text-decoration-style:initial; text-decoration-color:initial">
+	<li style="box-sizing:border-box"><span style="font-size:16px;"><span style="box-sizing:border-box">17 de agosto de 2023</span></span></li>
+</ul>
+
+<p style="margin:0px 0px 10px; text-align:start; -webkit-text-stroke-width:0px">&nbsp;</p>
+
+<p style="margin:0px 0px 10px; text-align:start; -webkit-text-stroke-width:0px"><span style="font-size:16px;"><span style="box-sizing:border-box"><span style="font-style:normal"><span style="font-variant-ligatures:normal"><span style="font-variant-caps:normal"><span style="font-weight:400"><span style="letter-spacing:normal"><span style="orphans:2"><span style="text-transform:none"><span style="widows:2"><span style="word-spacing:0px"><span style="white-space:normal"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial"><span style="box-sizing:border-box"><span style="box-sizing:border-box"><font color="#3498db"><font style="box-sizing: border-box;"><b style="box-sizing:border-box; font-weight:bold">¿Dónde?</b></font></font><font color="#ecf0f1"><font style="box-sizing: border-box;">1</font></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<ul style="box-sizing:border-box; margin:0px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:2; text-align:start; text-transform:none; widows:2; word-spacing:0px; -webkit-text-stroke-width:0px; white-space:normal; text-decoration-thickness:initial; text-decoration-style:initial; text-decoration-color:initial">
+	<li style="box-sizing:border-box"><span style="font-size:16px;"><span style="box-sizing:border-box"><strong style="box-sizing:border-box; font-weight:bold">14:30 hrs.&nbsp;</strong></span>I<span style="box-sizing:border-box"><strong style="box-sizing:border-box; font-weight:bold">&nbsp;<span style="color:#3498db;"><span style="box-sizing:border-box">Presencial</span></span></strong><strong style="box-sizing:border-box; font-weight:bold"><span style="color:#3498db;">:</span> Auditorio MOM </strong>- Leandro N. Alem 882, Buenos Aires, Argentina<strong style="box-sizing:border-box; font-weight:bold">&nbsp;</strong><strong style="box-sizing:border-box; font-weight:bold">&nbsp;&nbsp;</strong></span></span></li>
+</ul>
+
+<p style="margin:0cm">&nbsp;</p>
+
+<p style="margin:0cm"><br>
+&nbsp;</p>
+
+<p style="margin:0cm"><span style="font-size:16px;"><strong><u>Agenda</u></strong></span><br>
+&nbsp;</p>
+
+<p style="margin:0cm"><span style="font-size:16px;"><span style="color:#3498db;">14:30 hrs. – <strong>Introducción</strong></span></span><br>
+&nbsp;</p>
+
+<p style="margin:0cm">&nbsp;</p>
+
+<p style="margin:0cm"><span style="font-size:16px;"><span style="color:#3498db;">15:00 hrs. – <strong>Obligaciones en moneda extranjera</strong></span></span><br>
+&nbsp;</p>
+
+<ul>
+	<li style="margin: 0cm;"><b>Roberto E. Silva (h.) </b>- Socio de Bancos y Finanzas <b>(Marval O´Farrell Mairal)</b></li>
+	<li style="margin: 0cm;"><b>Daniel Pizarro </b>- Catedrático de Derecho Civil <b>(Universidad Nacional de Córdoba)</b></li>
+</ul>
+
+<p style="margin:0cm"><br>
+&nbsp;</p>
+
+<p style="margin:0cm"><span style="font-size:16px;"><span style="color:#3498db;">15:40 hrs. – <strong>Contratos de larga duración</strong></span></span><br>
+&nbsp;</p>
+
+<ul>
+	<li style="margin: 0cm;"><b>Julio César Rivera</b> - Socio de Litigios y Arbitrajes <b>(Marval O´Farrell Mairal)</b></li>
+	<li style="margin: 0cm;"><b>Fulvio Santarelli </b>- Director editorial<b> (Thomson Reuters Latam Sur)</b><br>
+	<br>
+	&nbsp;</li>
+</ul>
+
+<p style="margin:0cm"><span style="font-size:16px;"><span style="color:#3498db;">16:20 hrs. – <strong>Presentación de la obra</strong></span></span><br>
+&nbsp;</p>
+
+<ul>
+	<li style="margin: 0cm;">
+	<p style="margin:0cm 0cm 8pt"><strong>Mariano Esper</strong> - Profesor de Derecho Civil <strong>(Universidad de Buenos Aires y Universidad Austral)</strong><br>
+	&nbsp;</p>
+	</li>
+</ul>
+
+<p class="xxxxxx" style="margin:0cm"><span style="font-size:16px;"><span style="color:#3498db;">16:40 hrs. – <strong>Coffee Break</strong></span></span><br>
+<br>
+<br>
+<span style="font-size:16px;"><span style="color:#3498db;">17:00 hrs. – <strong>Planificación sucesoria</strong></span></span><br>
+&nbsp;</p>
+
+<ul>
+	<li style="margin: 0cm;"><b>Rodrigo F. García </b>- Socio de Litigios y Arbitrajes <b>(Marval O´Farrell Mairal)</b></li>
+	<li style="margin: 0cm;"><b>Eduardo G. Roveda&nbsp;</b>- Profesor de Derecho de Familia y Sucesiones&nbsp;<b>(Universidad de Buenos Aires)</b></li>
+</ul>
+
+<p style="margin:0cm"><br>
+<br>
+<span style="font-size:16px;"><span style="color:#3498db;">17:40 hrs. – <strong>Medidas cautelares en el derecho internacional privado</strong></span></span><br>
+&nbsp;</p>
+
+<ul>
+	<li style="margin: 0cm;"><b>Julio César Rivera (h.) </b>- Socio de Litigios y Arbitrajes <b>(Marval O´Farrell Mairal)</b></li>
+	<li style="margin: 0cm;"><b>Paula All </b>- Catedrática de Derecho Internacional Privado <b>(Universidad Nacional del Litoral)</b></li>
+</ul>
+            </div>
+
+
+
+
+            <div class="row">
+                <div id="pnlTags" style="margin-top: 15px">
+
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="row" style="margin-bottom:30px;margin-top:20px">
+                <div class="col-md-12" style="margin-left:10px;">
+
+                    <form class="" id="EventoForm" onsubmit="sendDataEvento(); return false;" method="post">
+                        <input type="hidden" id="idVisitante" name="VisitanteId" value="">
+                        <input type="hidden" id="IdEdicionEvento" name="IdEdicionEvento" value="34">
+                    </form>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12" id="pnlSpeakers">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <h3 style="font-weight: bold; margin-left:20px; margin-bottom:30px;">Oradores</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div id="pnlProfesionalesEventoDetalle">
+
+    <a class="link-no-color" isnotexternal="" href="https://www.marval.com/profesional/julio-cesar-rivera-2500">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="2500">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/JCR_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Julio César Rivera"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Julio César Rivera</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Socio</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+                        <div>
+                            <span class="container-glyphicon">
+                                <span class="glyphicon glyphicon-menu-right icon-circle-container-black"></span>
+                            </span>
+                        </div>
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isnotexternal="" href="https://www.marval.com/profesional/julio-cesar-h-rivera-2501">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="2501">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/jcrh_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Julio César (h.) Rivera"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Julio César (h.) Rivera</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Socio</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+                        <div>
+                            <span class="container-glyphicon">
+                                <span class="glyphicon glyphicon-menu-right icon-circle-container-black"></span>
+                            </span>
+                        </div>
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isnotexternal="" href="https://www.marval.com/profesional/rodrigo-f-garcia-106">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="106">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/rfg_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Rodrigo F. García"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Rodrigo F. García</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Socio</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+                        <div>
+                            <span class="container-glyphicon">
+                                <span class="glyphicon glyphicon-menu-right icon-circle-container-black"></span>
+                            </span>
+                        </div>
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isnotexternal="" href="https://www.marval.com/profesional/roberto-e-silva-h-35">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="35">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/res_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Roberto E. Silva (h.)"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Roberto E. Silva (h.)</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Socio</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+                        <div>
+                            <span class="container-glyphicon">
+                                <span class="glyphicon glyphicon-menu-right icon-circle-container-black"></span>
+                            </span>
+                        </div>
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isexternal="">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="5017">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/ext-5017_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Daniel Pizarro"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Daniel Pizarro</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Catedrático de Derecho Civil (Universidad Nacional de Córdoba)</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isexternal="">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="5019">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/ext-5019_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Fulvio  Santarelli"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Fulvio  Santarelli</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Director editorial (Thomson Reuters Latam Sur)</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isexternal="">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="5023">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/ext-5023_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Mariano Esper"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Mariano Esper</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Profesor de Derecho Civil  (Universidad de Buenos Aires y Universidad Austral)</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isexternal="">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="5026">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/ext-5026_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Eduardo G. Roveda"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Eduardo G. Roveda</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Profesor de Derecho de Familia y Sucesiones (Universidad de Buenos Aires)</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+
+
+            </div>
+        </div>
+    </a>
+    <a class="link-no-color" isexternal="">
+
+    
+
+        <div class="profesional-item-container-2 col-xs-12 col-sm-8 col-md-12 col-lg-12" data-profesionalid="5021">
+            <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2 nopadding">
+                <!--IMAGEN-->
+
+                <div class="profesional-img" style="background-image: url(&#39;/Resources/Profesionales/ext-5021_160.png&#39;); background-color: #eee !important; border: solid 1px #fff;" title="Paula All"></div>
+            </div>
+            <div class="col-xs-7 col-sm-8 col-md-8 col-lg-8" style="margin-top: 12px;">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="bold profesional-item-text">Paula All</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <h5 class="profesional-item-text">Catedrática de Derecho Internacional Privado (Universidad Nacional del Litoral)</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 col-lg-offset-1 icon-item-container">
+                <!--BOTON-->
+
+
+            </div>
+        </div>
+    </a>
+</div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-12">
+
+                            <div id="pnlRelatedEventoDetalle" class="pnl-item-pub">
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row content-center" id="pnlNovPersSuscripcion" style="background-color: #f5f5f5;">
+
+<div id="AlertsbtnSuscripcion"></div>
+
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 nopadding pnlSliderFooter">
+    <div class="lSSlideOuter "><div class="lSSlideWrapper usingCss" style="transition-duration: 1500ms; transition-timing-function: ease;"><ul id="ulSlidesFooter" class="ulSlidesFooter lightSlider lSSlide" style="width: 3332px; transform: translate3d(-1666px, 0px, 0px); height: 420px; padding-bottom: 0%;"><li class="clone left" style="width: 833px; margin-right: 0px;"><div class="sliderBoxContainer" style="position: relative; color: #000000"><div style="background-image: url(&#39;/Resources/Slides/Slide_111_480.png&#39;)" class="sliderBoxFooter lazy blur" data-src="/Resources/Slides/Slide_111_1600.png"></div><div class="item_pub_contenido" style="position: absolute; bottom: 20px; width: 100%"><div class="item_pub_contenido_titulo"><h1 style="color: #000000 !important">Probono</h1></div><div class="item_pub_contenido_copete" style="padding-bottom: 10px"><h4 style="color: #000000 !important"><p>En Marval O'Farrell Mairal entendemos que el ejercicio de la abogacía en favor de los sectores vulnerables y de las minorías es una herramienta fundamental para que más personas tengan acceso a la justicia. Por eso, desde hace casi 20 años, contamos con un programa de trabajo&nbsp;<i>pro bono</i>&nbsp;dirigido por una comisión interna especialmente dedicada a la organización, distribución y coordinación del trabajo que realizan los profesionales para cumplir con esa premisa.</p>
+</h4></div><div class="item_pub_contenido_link">            <a href="https://marval.com/areas-de-practica/area/pro-bono-105&amp;lang=en" target="_blank" style="color: #000000 !important">                <b>Leer Más&nbsp;</b>                <span class="container-glyphicon">                    <span class="glyphicon glyphicon-menu-right icon-circle-container"></span>                </span>            </a>        </div></div></div></li><li class="lslide" style="width: 833px; margin-right: 0px;"><div class="sliderBoxContainer" style="position: relative; color: #000000"><div class="sliderBoxFooter" style="background-image: url(&#39;/Resources/Slides/Slide_143_1600.png&#39;)"></div><div class="item_pub_contenido" style="position: absolute; bottom: 20px; width: 100%"><div class="item_pub_contenido_titulo"><h1 style="color: #000000 !important">MarvalApp </h1></div><div class="item_pub_contenido_copete" style="padding-bottom: 10px"><h4 style="color: #000000 !important"><p><span style="font-size:22px;"><strong>Mantenerse actualizado del&nbsp;mundo legal, nunca fue tan fácil.&nbsp;</strong></span></p>
+
+<p><span style="font-size:18px;">Descargue nuestra app y acceda a todos los contenidos y alertas legales analizados por nuestros especialistas, participe de nuestras conferencias y ponganse en contacto con nuestros mas de 300 profesionales.&nbsp;</span><br>
+<br>
+&nbsp;</p>
+</h4></div><div class="item_pub_contenido_link">            <a href="https://www.marval.com/publicacion/lanzamos-marvalapp-14142&amp;lang=es" target="_blank" style="color: #000000 !important">                <b>Leer Más&nbsp;</b>                <span class="container-glyphicon">                    <span class="glyphicon glyphicon-menu-right icon-circle-container"></span>                </span>            </a>        </div></div></div></li><li class="lslide active" style="width: 833px; margin-right: 0px;"><div class="sliderBoxContainer" style="position: relative; color: #000000"><div style="background-image: url(&#39;/Resources/Slides/Slide_111_480.png&#39;)" class="sliderBoxFooter lazy blur" data-src="/Resources/Slides/Slide_111_1600.png"></div><div class="item_pub_contenido" style="position: absolute; bottom: 20px; width: 100%"><div class="item_pub_contenido_titulo"><h1 style="color: #000000 !important">Probono</h1></div><div class="item_pub_contenido_copete" style="padding-bottom: 10px"><h4 style="color: #000000 !important"><p>En Marval O'Farrell Mairal entendemos que el ejercicio de la abogacía en favor de los sectores vulnerables y de las minorías es una herramienta fundamental para que más personas tengan acceso a la justicia. Por eso, desde hace casi 20 años, contamos con un programa de trabajo&nbsp;<i>pro bono</i>&nbsp;dirigido por una comisión interna especialmente dedicada a la organización, distribución y coordinación del trabajo que realizan los profesionales para cumplir con esa premisa.</p>
+</h4></div><div class="item_pub_contenido_link">            <a href="https://marval.com/areas-de-practica/area/pro-bono-105&amp;lang=en" target="_blank" style="color: #000000 !important">                <b>Leer Más&nbsp;</b>                <span class="container-glyphicon">                    <span class="glyphicon glyphicon-menu-right icon-circle-container"></span>                </span>            </a>        </div></div></div></li><li class="clone right" style="width: 833px; margin-right: 0px;"><div class="sliderBoxContainer" style="position: relative; color: #000000"><div class="sliderBoxFooter" style="background-image: url(&#39;/Resources/Slides/Slide_143_1600.png&#39;)"></div><div class="item_pub_contenido" style="position: absolute; bottom: 20px; width: 100%"><div class="item_pub_contenido_titulo"><h1 style="color: #000000 !important">MarvalApp </h1></div><div class="item_pub_contenido_copete" style="padding-bottom: 10px"><h4 style="color: #000000 !important"><p><span style="font-size:22px;"><strong>Mantenerse actualizado del&nbsp;mundo legal, nunca fue tan fácil.&nbsp;</strong></span></p>
+
+<p><span style="font-size:18px;">Descargue nuestra app y acceda a todos los contenidos y alertas legales analizados por nuestros especialistas, participe de nuestras conferencias y ponganse en contacto con nuestros mas de 300 profesionales.&nbsp;</span><br>
+<br>
+&nbsp;</p>
+</h4></div><div class="item_pub_contenido_link">            <a href="https://www.marval.com/publicacion/lanzamos-marvalapp-14142&amp;lang=es" target="_blank" style="color: #000000 !important">                <b>Leer Más&nbsp;</b>                <span class="container-glyphicon">                    <span class="glyphicon glyphicon-menu-right icon-circle-container"></span>                </span>            </a>        </div></div></div></li></ul></div><ul class="lSPager lSpg" style="margin-top: 5px;"><li class=""><a href="https://www.marval.com/Evento/codigo-civil-y-comercial-comentado-34#">1</a></li><li class="active"><a href="https://www.marval.com/Evento/codigo-civil-y-comercial-comentado-34#">2</a></li></ul></div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 bloque-suscripcion-container">
+    <div class="suscripcion-container">
+        <div class="content-suscripcion-container"><h3 class="bold">Suscríbase a nuestros newsletters</h3>
+<h5 style="line-height:inherit">
+    <p style="overflow-wrap: break-word;" id="TituloSuscripcion">Elaboramos periódicamente informes para clientes y boletines donde se analizan cambios en la legislación y cuestiones relacionadas con la industria, y su impacto en los mercados en que operan nuestros clientes.</p>
+</h5>
+<div style="padding-top: 20px;">
+    <button id="btnSus" type="button" class="btn btn-white" onclick="ComprobacionVisitanteId(openModalSuscripcion,&#39;Newsletters&#39;)" style="position:absolute; bottom: 30px;">Suscribirse</button>
+</div>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/Suscripcion"></script>
+
+
+<script>
+    //carga de Cabecera y texto btn
+    $(document).ready(function () {
+        if (localStorage.getItem("KA_usr_suscr") == 'true') {
+            $("#TituloSuscripcion").html('Mantenga sus datos actualizados y no se pierda las novedades de cada una de nuestras &#225;reas de pr&#225;ctica.');
+            $("#btnSus").html('Modificar');
+        } else {
+            $("#TituloSuscripcion").html('Elaboramos peri&#243;dicamente informes para clientes y boletines donde se analizan cambios en la legislaci&#243;n y cuestiones relacionadas con la industria, y su impacto en los mercados en que operan nuestros clientes.');
+            $("#btnSus").html('Suscribirse');
+        }
+
+        if (typeof lanzarSuscripcion != "undefined") {
+            if (lanzarSuscripcion == 'True')
+                $("#btnSus").click();
+        }
+
+    })
+</script>
+</div>
+    </div>
+</div>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/Slide"></script>
+
+
+<script type="text/javascript">
+    var slidesFooter = [{"Orden":0,"image":"Slide_143.png","panel_color":"#000000","title":"MarvalApp ","header":"\u003cp\u003e\u003cspan style=\"font-size:22px;\"\u003e\u003cstrong\u003eMantenerse actualizado del\u0026nbsp;mundo legal, nunca fue tan f\u0026aacute;cil.\u0026nbsp;\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\r\n\r\n\u003cp\u003e\u003cspan style=\"font-size:18px;\"\u003eDescargue nuestra app y acceda a todos los contenidos y alertas legales analizados por nuestros especialistas, participe de nuestras conferencias y ponganse en contacto con nuestros mas de 300 profesionales.\u0026nbsp;\u003c/span\u003e\u003cbr /\u003e\r\n\u003cbr /\u003e\r\n\u0026nbsp;\u003c/p\u003e\r\n","link":"https://www.marval.com/publicacion/lanzamos-marvalapp-14142\u0026lang=es"},{"Orden":1,"image":"Slide_111.png","panel_color":"#000000","title":"Probono","header":"\u003cp\u003eEn Marval O\u0026#39;Farrell Mairal entendemos que el ejercicio de la abogac\u0026iacute;a en favor de los sectores vulnerables y de las minor\u0026iacute;as es una herramienta fundamental para que m\u0026aacute;s personas tengan acceso a la justicia. Por eso, desde hace casi 20 a\u0026ntilde;os, contamos con un programa de trabajo\u0026nbsp;\u003ci\u003epro bono\u003c/i\u003e\u0026nbsp;dirigido por una comisi\u0026oacute;n interna especialmente dedicada a la organizaci\u0026oacute;n, distribuci\u0026oacute;n y coordinaci\u0026oacute;n del trabajo que realizan los profesionales para cumplir con esa premisa.\u003c/p\u003e\r\n","link":"https://marval.com/areas-de-practica/area/pro-bono-105\u0026lang=en"}]
+    var rutaBase = '/Resources/Slides/';
+    var _dimension = GetDimensionImagen();
+    var lblMasInfo ='Leer M&#225;s';
+
+    $(document).ready(function () {
+        CrearSlidesFooter(slidesFooter,"ulSlidesFooter");
+        InicializarSlides("ulSlidesFooter");
+    });
+</script></div>
+
+<div class="row" id="pnlFooter"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding: 60px 50px 50px 50px;">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
+            <!-- LexMundi + Redes Sociales -->
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" style="text-align:center"> <!-- alinear-text-responsive-left -->
+                    <a href="https://www.lexmundi.com/lexmundi/Default.asp" style="display:block;" target="_blank">
+                        <img src="./Presentacion Código Civil y Comercial Comentado_files/LogoLexMundi.png" style="width: 140px;" alt="LexMundi" title="LexMundi">
+                    </a>
+                </div>
+
+
+                <div class="col-xs-12 col-sm-12 col-md-7 col-lg-8 col-lg-offset-1 col-md-offset-1 nopadding">
+                    <div class="row" style="margin-top: 7px;"> <!-- alinear-text-responsive-left -->
+                        <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 nopadding" style="display:flex;">
+                            <div style="margin-left:auto; margin-right:auto; text-align:left;">
+                                <h6 class="bold">BUENOS AIRES</h6>
+                                <p>
+                                    Av. Leandro N. Alem 882 <br>
+                                (C1001AAQ) Buenos Aires <br>
+                                Argentina <br>
+                                Tel. (54.11) 4310.0100 <br>
+                                Fax  (54.11) 4310.0200
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 nopadding" style="display:none;">
+                            <div id="dirNY" style="margin-left:auto; margin-right:auto;">
+                                <h6 class="bold">NEW YORK</h6>
+                                <p>
+                                    375 Park Ave, 36th Floor<br>
+                                Suite 3607, NY 10152<br>
+                                United States of America<br>
+                                Tel. (1.212) 838.4641<br>
+                                Fax  (1.212) 751.3854
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!--termINA ROW-->
+
+        </div> <!--TERMINA COLUMNAS-->
+
+
+        <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5" style="top: 8px;">
+            <div class="row alinear-text-responsive-center">
+                <h6 class="bold" style="display: inline-block"><a role="button" onclick="ComprobacionVisitanteId(openModalSuscripcion,&#39;Newsletters&#39;)">SUSCRIPCIÓN</a></h6> 
+                <h6 class="bold" style="display: inline-block"><a target="_blank" href="https://www.marval.com/aviso-legal">AVISO LEGAL</a></h6> 
+                <h6 class="bold" style="display: inline-block"><a target="_blank" href="https://www.marval.com/PoliticaPrivacidad">POLÍTICA DE PRIVACIDAD</a></h6> 
+                <h6 class="bold" style="display: inline-block"><a target="_blank" href="https://www.marval.com/contacto">CONTACTO</a></h6>
+            </div>
+            <div class="row alinear-text-responsive-center" style="margin-top:15px;margin-bottom: 30px;">
+                <div>
+                    <a href="https://es-la.facebook.com/Marval-OFarrell-Mairal-160565647334474/" target="_blank" class="fa fa-facebook icono"></a>
+                    <a href="https://twitter.com/marvalofarrell" target="_blank" class="fa fa-twitter icono"></a>
+                    <a href="https://www.instagram.com/marvalofarrell" target="_blank" class="fa fa-instagram icono" id="instagram"></a>
+                    <a href="https://www.linkedin.com/company/marvalofarrell" target="_blank" class="fa fa-linkedin icono"></a>
+                    <a href="https://www.youtube.com/user/MarvalOfarrellMairal" target="_blank" class="fa fa-youtube-play icono"></a>
+                    <a href="https://open.spotify.com/show/3YCkgg73AVvtp5FNwTo7Gy" target="_blank" class="fa fa-spotify icono"></a>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 10px;">
+            © 2018 Marval, O'Farrell y Mairal. Todos los derechos reservados. Prohibida su reproducción total o parcial.
+        </div>
+    </div>
+</div>
+</div>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/Evento"></script>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/General"></script>
+
+<script src="./Presentacion Código Civil y Comercial Comentado_files/Buscador"></script>
+
+
+<script>
+
+    var EVENTO_URL = 'https://www.marval.com/Resources/Evento/34/';
+    $(document).ready(function () {
+
+        CargarMenu();
+        CargarMenuResponsive();
+
+        GetProfesionalesEdicionEvento();
+        debugger;
+        if ('Presentaci&#243;n del C&#243;digo Civil y Comercial Comentado - 2da edici&#243;n.'=== 'Marval Annual Summit on Compliance, Anti-Corruption and Investigations') {
+            GetEventosRelacionados()
+        }
+        CargarNovedadPersonalizada();
+        CargarFooter();
+
+
+    })
+</script>
+
+    </div>
+
+    <div id="dialog" class="modal fade" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    </div>
+
+    <button class="floating-btn" onclick="UpPage();" style="opacity: 0.5;">
+        <span class="fa fa-chevron-circle-up"></span>
+    </button>
+
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/Pnotify" rel="stylesheet">
+
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/Pnotify(1)"></script>
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/bootstrap"></script>
+
+    <link href="./Presentacion Código Civil y Comercial Comentado_files/lightslider" rel="stylesheet">
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/lightslider(1)"></script>
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/jquerylazy"></script>
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/Selectize(1)"></script>
+
+    <script src="./Presentacion Código Civil y Comercial Comentado_files/combos"></script>
+
+    
+
+    <script>
+        MostrarOcultarBoton();
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-66022783-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+    <!-- CANDDi https://www.canddi.com/privacy -->
+    <script async="" type="text/javascript" src="./Presentacion Código Civil y Comercial Comentado_files/f22abcd1fd2f019a0babff285335c437.js.descarga"></script>
+    <!-- /END CANDDi -->
+
+    <script type="text/javascript">_linkedin_partner_id = "2308532"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id);</script>
+    <script type="text/javascript">(function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})();</script> 
+    <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2308532&fmt=gif" /> </noscript><iframe allow="join-ad-interest-group" data-tagging-id="AW-611980893/OJ-JCOa0iukBEN2s6KMC" data-load-time="1694110425494" height="0" width="0" style="display: none; visibility: hidden;" src="./Presentacion Código Civil y Comercial Comentado_files/611980893.html"></iframe>
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Marval, O'Farrell & Mairal",
+  "url": "https://www.marval.com",
+  "sameAs": [
+    "https://es-la.facebook.com/marvalofarrell/",
+    "https://twitter.com/marvalofarrell",
+    "https://plus.google.com/+Marvalofarrell",
+    "https://www.linkedin.com/company/marval-o%27farrell-&-mairal/",
+    "https://www.youtube.com/user/MarvalOfarrellMairal"
+  ]
+}
+</script><script type="text/javascript" id="" src="./Presentacion Código Civil y Comercial Comentado_files/dhtrack.js.descarga"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1192927141466929");fbq("set","agent","tmgoogletagmanager","1192927141466929");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1192927141466929&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe id="_hjSafeContext_91517727" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="./Presentacion Código Civil y Comercial Comentado_files/saved_resource.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
