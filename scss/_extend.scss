@@ -1,0 +1,11 @@
+.card-gral{
+    border-radius: $textSm;
+    text-align: 0.5px;
+    object-fit: cover;
+}
+.card-secondari{
+    @extend.card-gral;
+    .cardImg{
+        height: 50px;
+    }
+}

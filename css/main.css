@@ -1,177 +1,19 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
-#navbarNav .estHed {
-  font-size: 6px;
-}
-#navbarNav .nav-link {
-  font-size: 3px;
-  padding-right: 3px;
-}
-#navbarNav .tamLogo {
-  width: 150px;
-}
+/* Error: Undefined variable.
+ *   ,
+ * 4 |     bottom: $botom;
+ *   |             ^^^^^^
+ *   '
+ *   scss\_mixins.scss 4:13   position()
+ *   scss\_general.scss 84:5  @import
+ *   scss\main.scss 6:8       root stylesheet */
 
-.h1 {
-  text-align: center;
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined variable.\a   \2577 \a 4 \2502      bottom: $botom;\d\a   \2502              ^^^^^^\a   \2575 \a   scss\\_mixins.scss 4:13   position()\a   scss\\_general.scss 84:5  @import\a   scss\\main.scss 6:8       root stylesheet";
 }
-
-#carouselExample .imgCarousel {
-  height: 550px;
-  object-fit: cover;
-}
-
-.quienesSomos {
-  text-align: center;
-  font-size: 8px;
-  background-color: black;
-}
-
-.img-fluid {
-  width: 200px;
-  position: center;
-}
-
-.estHed:hover {
-  background-color: cadetblue;
-  color: blue;
-}
-
-.logoInicio {
-  width: 250px;
-  height: 300;
-}
-
-h3 {
-  margin-top: 6px;
-  margin-right: 8px;
-  margin-bottom: 8px;
-  margin-left: 8px;
-}
-
-.quienesSomos {
-  text-align: center;
-}
-
-footer {
-  background-color: cadetblue;
-  color: black;
-}
-
-.logoWhats {
-  width: 0.5px;
-  right: 20px;
-  position: fixed;
-  bottom: 20px;
-}
-
-.h1 {
-  text-align: center;
-}
-
-.text-body-secondary {
-  text-align: 6px;
-}
-
-.lead {
-  text-align: 3px;
-}
-
-.estBio {
-  width: 300px;
-}
-
-.bioDet {
-  border-style: double;
-  color: black;
-  font-size: 8px;
-}
-
-footer {
-  background-color: cadetblue;
-  color: black;
-}
-
-.textContact {
-  background-color: black;
-  font-size: 6px;
-  font-family: "Roboto";
-  font-size: 8px;
-  padding-right: 8px;
-}
-
-.logoIns {
-  width: 50px;
-  left: 0px;
-  position: sticky;
-  bottom: 20px;
-}
-
-.logoFace {
-  width: 90px;
-  left: 0px;
-  position: sticky;
-  bottom: 20px;
-}
-
-.logoMail {
-  width: 50px;
-  left: 0px;
-  position: sticky;
-  bottom: 20px;
-}
-
-.botonRed {
-  align-items: center;
-  justify-content: center;
-}
-
-.horAten {
-  font-size: 8px;
-  text-align: center;
-}
-
-footer {
-  background-color: cadetblue;
-  color: black;
-}
-
-/* CARD */
-.card {
-  margin: 0.5rem;
-  text-align: center;
-}
-
-.cardImg {
-  height: 150px;
-  object-fit: cover;
-}
-
-footer {
-  background-color: cadetblue;
-  color: black;
-}
-
-/* servicios */
-.fondoImg {
-  background-image: url("../img/contrato de trabajo.jpg");
-  background-position: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.card .card-title {
-  font-size: 8px;
-}
-.card .card-text {
-  font-size: 6px;
-}
-
-footer {
-  background-color: cadetblue;
-  color: black;
-}
-
-/*# sourceMappingURL=main.css.map */

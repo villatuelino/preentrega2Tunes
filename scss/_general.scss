@@ -81,8 +81,6 @@ footer {
 }
 // WHATSAPP 
 .logoWhats {
-    width: 0.5px;
-    right: 20px;
-    position: fixed;
-    bottom: 20px;
+    @include position(fixed,20px,20px,0.5px)
 }
+    
