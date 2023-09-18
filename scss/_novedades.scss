@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+/* CARD */
+.card {
+    margin: 0.5rem;
+    text-align: center;
+}
+
+.cardImg {
+    height: 150px;
+    object-fit: cover;
+}
+//FOOTER
+footer {
+    background-color: $color2;
+    color: $black;
+
+}
+

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+//CONTACTO
+.textContact{
+    background-color: $black;
+    font-size: $textMd;
+    font-family: "Roboto";
+    font-size: $textLg;
+    padding-right: $textLg;
+       
+}
+// icono Instagram 
+.logoIns {
+    width: 50px;
+    left: 0px;
+    position: sticky;
+    bottom: 20px;
+}
+
+// icono Facebook 
+.logoFace {
+    width: 90px;
+    left: 0px;
+    position: sticky;
+    bottom: 20px;
+}
+
+// icono Mail 
+.logoMail {
+    width: 50px;
+    left: 0px;
+    position: sticky;
+    bottom: 20px;
+}
+
+.botonRed {
+    align-items: center;
+    justify-content: center;
+}
+.horAten{
+    font-size: $textLg;
+    text-align: center;
+}
+//FOOTER
+footer {
+    background-color: $color2;
+    color: $black;
+
+}

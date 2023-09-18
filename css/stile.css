@@ -1,20 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap'); */
+
+/* body{  */
+     /* font-family: "Roboto", sans-serif;  */
+/* } */
 
 
-h1 {
-    text-align: center;
-}
+/* .h1 { */
+    /* text-align: center; */
+/* } */
 
-.tamLogo {
-    width: 150px;
+/* .tamLogo { */
+    /* width: 150px;  */
 
-}
+ /* }  */
 
 /* HEDER */
-.estHed:hover {
-    background-color: cadetblue;
-    color: blue;
-}
+/* .estHed:hover { */
+    /* background-color: cadetblue; */
+    /* color: blue; */
+/* } */
 
 /* NAVBAR
 .fondoImg{
@@ -24,46 +28,46 @@ h1 {
     background-repeat: no-repeat;
 } */
 
-.logoInicio {
-    width: 250px;
-    height: 300;
-}
+/* .logoInicio { */
+    /* width: 250px; */
+    /* height: 300; */
+/* } */
 
-.nav-link {
-    font-size: 1rem;
-    padding-right: 1rem;
-}
+/* .nav-link { */
+    /* font-size: 1rem; */
+    /* padding-right: 1rem; */
+/* } */
 
-h3 {
-    margin-top: 5px;
-    margin-right: 10px;
-    margin-bottom: 12px;
-    margin-left: 15px;
-}
+/* h3 { */
+    /* margin-top: 5px; */
+    /* margin-right: 10px; */
+    /* margin-bottom: 12px; */
+    /* margin-left: 15px; */
+/* } */
 
-.quienesSomos {
-    text-align: center;
-}
+/* .quienesSomos { */
+    /* text-align: center; */
+/* } */
 
-.img-fluid {
-    width: 200px;
-    position: center;
-}
+/* .img-fluid { */
+    /* width: 200px; */
+    /* position: center; */
+/* } */
 /* WHATSAPP */
-.logoWhats {
-    width: 100px;
-    right: 20px;
-    position: fixed;
-    bottom: 20px;
-}
+/* .logoWhats { */
+    /* width: 100px; */
+    /* right: 20px; */
+    /* position: fixed; */
+    /* bottom: 20px; */
+/* } */
 
 /* CAROUSEL */
-.imgCarousel {
-    height: 550px;
-    object-fit: cover;
-}
+/* .imgCarousel { */
+    /* height: 550px; */
+    /* object-fit: cover; */
+/* } */
 
-.bioDet {
+/* .bioDet {
     border-style: double;
     color: blue;
 }
@@ -76,52 +80,52 @@ h3 {
     font-family: "Roboto";
     font-size: 1rem;
     padding-right: 1rem;
-}
+} */
 
 /* servicios */
-.fondoImg {
+/* .fondoImg {
     background-image: url("../img/contrato\ de\ trabajo.jpg");
     background-position: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-}
+} */
 
 /* icono Instagram */
-.logoIns {
+/* .logoIns {
     width: 50px;
     left: 0px;
     position: sticky;
-    bottom: 20px;
-}
+    bottom: 20px; */
+/* } */
 
 /* icono Facebook */
-.logoFace {
+/* .logoFace {
     width: 90px;
     left: 0px;
     position: sticky;
     bottom: 20px;
-}
+} */
 
 /* icono Mail */
-.logoMail {
+/* .logoMail {
     width: 50px;
     left: 0px;
-    */ position: sticky;
+    position: sticky;
     bottom: 20px;
 }
 
 .botonRed {
     align-items: center;
     justify-content: center;
-}
+} */
 
 /* LETRA SERVICIOS  */
-.letServ {
+/* .letServ {
     font-size: 1rem;
-}
+} */
 
 /* CARD */
-.card {
+/* .card {
     margin: 0.5rem;
     text-align: center;
 }
@@ -129,10 +133,10 @@ h3 {
 .cardImg {
     height: 150px;
     object-fit: cover;
-}
+} */
 
 /* FOOTER */
-footer {
+/* footer {
     background-color: cadetblue;
     color: black;
 
@@ -141,10 +145,11 @@ footer {
 .caruImg {
     height: 100px;
     object-fit: cover;
-}
+} */
 
 /* BIOGRAFIA */
-.estBio {
+/* .estBio {
     width: 300px;
 
 }
+ */

@@ -1,0 +1,30 @@
+//TITULO PRINCIPAL
+.h1 {
+    text-align: center;
+}
+
+//CARDS
+.text-body-secondary{
+    text-align: $textMd;
+}
+.lead{
+    text-align: $textSm;
+}
+.estBio{
+    width: 300px;
+}
+.bioDet{
+    border-style: double;
+    color: $black;
+    font-size: $textLg;
+}
+//FOOTER
+footer {
+    background-color: $color2;
+    color: $black;
+
+}
+
+
+
+

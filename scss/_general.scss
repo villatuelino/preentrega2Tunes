@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+//*{
+//  font-family: $mainfont;
+
+//LOGO PP
+
+
+//NAVBAR
+#navbarNav {
+    .estHed {
+        font-size: $textMd;
+    }
+
+    .nav-link {
+        font-size: $textSm;
+        padding-right: $textSm;
+    }
+
+    .tamLogo {
+        width: 150px;
+
+    }
+}
+
+//TITULO PRINCIPAL
+.h1 {
+    text-align: center;
+}
+
+// CAROUSEL 
+#carouselExample {
+
+    .imgCarousel {
+        height: 550px;
+        object-fit: cover;
+    }
+    
+}
+
+.quienesSomos {
+    text-align: center;
+    font-size: $textLg;
+    background-color: $black;
+}
+
+.img-fluid {
+    width: 200px;
+    position: center;
+}
+
+
+// HEDER 
+.estHed:hover {
+    background-color: $color2;
+    color: $color1;
+}
+
+.logoInicio {
+    width: 250px;
+    height: 300;
+}
+
+h3 {
+    margin-top: $textMd;
+    margin-right: $textLg;
+    margin-bottom: $textLg;
+    margin-left: $textLg;
+}
+
+
+
+.quienesSomos {
+    text-align: center;
+}
+//FOOTER
+footer {
+    background-color: $color2;
+    color: $black;
+
+}
+// WHATSAPP 
+.logoWhats {
+    width: 0.5px;
+    right: 20px;
+    position: fixed;
+    bottom: 20px;
+}
