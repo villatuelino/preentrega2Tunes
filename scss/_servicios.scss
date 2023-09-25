@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 
+header {
+    border-bottom: solid 1px $color1;
+    background-color: $color2;
+}
+
 /* servicios */
 .fondoImg {
     background-image: url("../img/contrato\ de\ trabajo.jpg");
@@ -7,12 +12,23 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.card{
-    .card-title{
+
+.card-gral {
+    .cardImg {
+        background-position: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 150px;
+        width: 100;
+        object-fit: cover;
+        
+    }
+
+    .card-title {
         font-size: $textLg;
     }
-    .card-text{
-        font-size: $textMd;
+
+    .card-text {
+        font-size: $textLg;
     }
 }
-

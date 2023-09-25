@@ -1,7 +1,7 @@
-@mixin position($type,$right,$bottom,$width){
+@mixin position($type, $right, $bottom, $width) {
     position: $type;
     right: $right;
-    bottom: $botom;
+    bottom: $bottom;
     width: $width;
-    
+
 }

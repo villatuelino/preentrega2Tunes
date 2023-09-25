@@ -1,31 +1,38 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 //*{
 //  font-family: $mainfont;
-
+//}
 //LOGO PP
+//HEADER
+header {
+    border-bottom: solid 1px $color1;
+    background-color: $color2;
+}
 
 
 //NAVBAR
 #navbarNav {
-    .estHed {
-        font-size: $textMd;
+    .estHed:hover {
+        font-size: $textLg;
+        background-color: $color2;
     }
 
     .nav-link {
-        font-size: $textSm;
-        padding-right: $textSm;
+        font-size: $textLg;
+        padding-right: $textLg;
     }
 
     .tamLogo {
-        width: 150px;
+        width: 50px;
 
     }
 }
 
 //TITULO PRINCIPAL
-.h1 {
+.titPrin {
+    font-size: 30px;
     text-align: center;
+    //padding: 2rem;
 }
 
 // CAROUSEL 
@@ -35,13 +42,21 @@
         height: 550px;
         object-fit: cover;
     }
-    
+
 }
+
+//CARDS
+.cardImg {
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 .quienesSomos {
     text-align: center;
     font-size: $textLg;
-    background-color: $black;
+    background-color: $color2;
 }
 
 .img-fluid {
@@ -73,14 +88,32 @@ h3 {
 .quienesSomos {
     text-align: center;
 }
+
 //FOOTER
 footer {
     background-color: $color2;
     color: $black;
+    text-align: justify;
+    position: absolute;
+    padding-left: 0;
+    width: 100%;
+    height: 400px;
+    .footEr{
+        position: center;
+        text-align: center;
+
+    }
+    .logoRed{
+        padding-left: 2px;
+        border: 10px;
+        width: 25px;
+        height: 25px;
+
+    }
 
 }
+
 // WHATSAPP 
 .logoWhats {
-    @include position(fixed,20px,20px,0.5px)
+    @include position(fixed, 20px, 20px, 50px)
 }
-    

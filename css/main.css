@@ -1,19 +1,204 @@
-/* Error: Undefined variable.
- *   ,
- * 4 |     bottom: $botom;
- *   |             ^^^^^^
- *   '
- *   scss\_mixins.scss 4:13   position()
- *   scss\_general.scss 84:5  @import
- *   scss\main.scss 6:8       root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Undefined variable.\a   \2577 \a 4 \2502      bottom: $botom;\d\a   \2502              ^^^^^^\a   \2575 \a   scss\\_mixins.scss 4:13   position()\a   scss\\_general.scss 84:5  @import\a   scss\\main.scss 6:8       root stylesheet";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+.card-gral, .card-secondari {
+  border-radius: 3px;
+  text-align: 0.5px;
+  object-fit: cover;
 }
+
+.card-secondari .cardImg {
+  height: 50px;
+}
+
+header {
+  border-bottom: solid 1px blue;
+  background-color: cadetblue;
+}
+
+#navbarNav .estHed:hover {
+  font-size: 15px;
+  background-color: cadetblue;
+}
+#navbarNav .nav-link {
+  font-size: 15px;
+  padding-right: 15px;
+}
+#navbarNav .tamLogo {
+  width: 50px;
+}
+
+.titPrin {
+  font-size: 30px;
+  text-align: center;
+}
+
+#carouselExample .imgCarousel {
+  height: 550px;
+  object-fit: cover;
+}
+
+.cardImg {
+  background-position: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.quienesSomos {
+  text-align: center;
+  font-size: 15px;
+  background-color: cadetblue;
+}
+
+.img-fluid {
+  width: 200px;
+  position: center;
+}
+
+.estHed:hover {
+  background-color: cadetblue;
+  color: blue;
+}
+
+.logoInicio {
+  width: 250px;
+  height: 300;
+}
+
+h3 {
+  margin-top: 6px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+}
+
+.quienesSomos {
+  text-align: center;
+}
+
+footer {
+  background-color: cadetblue;
+  color: black;
+  text-align: justify;
+  position: absolute;
+  padding-left: 0;
+  width: 100%;
+  height: 400px;
+}
+footer .footEr {
+  position: center;
+  text-align: center;
+}
+footer .logoRed {
+  padding-left: 2px;
+  border: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.logoWhats {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 50px;
+}
+
+.h1 {
+  text-align: center;
+}
+
+.text-body-secondary {
+  text-align: 6px;
+}
+
+.lead {
+  text-align: 3px;
+}
+
+.estBio {
+  height: 150px;
+  object-fit: cover;
+}
+
+.bioDet {
+  border-style: double;
+  color: black;
+  font-size: 15px;
+}
+
+.textContact {
+  font-size: 15px;
+  font-family: "Roboto";
+  font-size: large;
+  padding-right: 15px;
+  text-align: center;
+}
+
+.form-label {
+  font-size: 15px;
+  font-family: "Roboto";
+  text-align: center;
+}
+
+.botonRed {
+  align-items: center;
+  justify-content: center;
+}
+
+.horAten {
+  font-size: 15px;
+  text-align: center;
+  font-size: large;
+}
+
+.card {
+  height: 400px;
+  margin: 0.5rem;
+  text-align: center;
+  flex-grow: 1;
+}
+.card .cardImg {
+  height: 125px;
+  object-fit: cover;
+}
+.card .btn {
+  background-color: var(secondary);
+  color: cadetblue;
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+header {
+  border-bottom: solid 1px blue;
+  background-color: cadetblue;
+}
+
+/* servicios */
+.fondoImg {
+  background-image: url("../img/contrato de trabajo.jpg");
+  background-position: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card-gral .cardImg, .card-secondari .cardImg {
+  background-position: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100;
+  object-fit: cover;
+}
+.card-gral .card-title, .card-secondari .card-title {
+  font-size: 15px;
+}
+.card-gral .card-text, .card-secondari .card-text {
+  font-size: 15px;
+}
+
+/*# sourceMappingURL=main.css.map */
