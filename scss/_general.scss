@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
-//*{
-//  font-family: $mainfont;
-//}
-//LOGO PP
+
 //HEADER
 header {
     border-bottom: solid 1px $color1;
@@ -32,7 +29,6 @@ header {
 .titPrin {
     font-size: 30px;
     text-align: center;
-    //padding: 2rem;
 }
 
 // CAROUSEL 
@@ -110,10 +106,29 @@ footer {
         height: 25px;
 
     }
+    .bot404{
+        bottom: ;
+    }
 
 }
 
 // WHATSAPP 
 .logoWhats {
     @include position(fixed, 20px, 20px, 50px)
+}
+.page404{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    flex: 2;
+    margin: 20px;
+    min-width: 200px;
+    margin-bottom: 0px;
+}
+.bot404{
+    margin-bottom: $textMd;
+    border-radius: 1px;
+    text-align: center;
+    background-color: $color2;
+
 }
